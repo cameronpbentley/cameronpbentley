@@ -6,7 +6,7 @@ MovieApp Hero Image
 Project Overview
 Project Name: MovieApp
 My Role: Frontend UI/UX Developer & Stylist (focused on responsive design, search integration, and visual consistency)
-Team Size: 4 (group7: Cameron Bentley, Finn Isler, and two other contributors)
+Team Size: 5 (group7: Cameron Bentley, Finn Isler, Cindi Flowers, Haylee Hauser, and Nick Kanampiu)
 Duration: Fall 2025 (September – December, ~12 weeks across 3 sprints)
 
 Link to Figma:Team Figma Design Board (internal collaboration for wireframes and UI components) https://www.figma.com/design/tdhI5RmN7b78IBEdJK0DGz/Letterboxd-Redesign-Group-7?node-id=0-1&p=f
