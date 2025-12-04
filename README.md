@@ -9,7 +9,7 @@ My Role: Frontend UI/UX Developer & Stylist (focused on responsive design, searc
 Team Size: 4 (group7: Cameron Bentley, Finn Isler, and two other contributors)
 Duration: Fall 2025 (September – December, ~12 weeks across 3 sprints)
 
-Link to Figma:Team Figma Design Board (internal collaboration for wireframes and UI components)
+Link to Figma:Team Figma Design Board (internal collaboration for wireframes and UI components) https://www.figma.com/design/tdhI5RmN7b78IBEdJK0DGz/Letterboxd-Redesign-Group-7?node-id=0-1&p=f
 Link to Live Site:Deployed MovieApp (hosted on Netlify; includes full navigation, search, film details, and social features)
 
 MovieApp is a collaborative capstone project built as a modern, Letterboxd-inspired web app for film enthusiasts. Users can discover movies, log watches, rate them, and share with friends. The app uses React for the frontend, JSON for data, and Tailwind CSS for styling. It's fully responsive, with search, hover effects, and interactive elements like like buttons.
