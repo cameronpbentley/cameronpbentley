@@ -1,3 +1,4 @@
+MovieApp: A Letterboxd-Inspired Film Discovery Platform
 MovieApp Hero Image
 (Screenshot of the deployed app's hero section – showing the "Discover Films" page with real movie posters and search bar)
 
@@ -7,8 +8,10 @@ Project Name: MovieApp
 My Role: Frontend UI/UX Developer & Stylist (focused on responsive design, search integration, and visual consistency)
 Team Size: 4 (group7: Cameron Bentley, Finn Isler, and two other contributors)
 Duration: Fall 2025 (September – December, ~12 weeks across 3 sprints)
-Link to Figma: Team Figma Design Board (internal collaboration for wireframes and UI components)
-Link to Live Site: Deployed MovieApp (hosted on Netlify; includes full navigation, search, film details, and social features)
+
+Link to Figma:Team Figma Design Board (internal collaboration for wireframes and UI components)
+Link to Live Site:Deployed MovieApp (hosted on Netlify; includes full navigation, search, film details, and social features)
+
 MovieApp is a collaborative capstone project built as a modern, Letterboxd-inspired web app for film enthusiasts. Users can discover movies, log watches, rate them, and share with friends. The app uses React for the frontend, JSON for data, and Tailwind CSS for styling. It's fully responsive, with search, hover effects, and interactive elements like like buttons.
 Technologies Used
 
