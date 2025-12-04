@@ -1,5 +1,7 @@
 MovieApp Hero Image
 (Screenshot of the deployed app's hero section – showing the "Discover Films" page with real movie posters and search bar)
+
+
 Project Overview
 Project Name: MovieApp
 My Role: Frontend UI/UX Developer & Stylist (focused on responsive design, search integration, and visual consistency)
