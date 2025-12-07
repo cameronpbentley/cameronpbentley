@@ -3,11 +3,6 @@
 A modern, cinematic web application for discovering films, tracking watches, writing reviews, and exploring curated movie data — designed and built by Group 7.
 
 <img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/abdb1bea-6219-46b5-947a-0f15bbac2dd0" />
-
-(Image of Home Page)
-
-Hero section with dynamic search bar, featured posters, and interactive like buttons.
-
 📌 Project Overview
 Attribute	Details
 Project Name	MovieApp
@@ -17,54 +12,47 @@ Timeline	Fall 2025 • 12 weeks • 3 Sprints
 Live Demo	Hosted on Netlify
 Figma Design	Letterboxd Redesign – Group 7
 
-Tech Stack	React, TypeScript, Tailwind CSS, Local JSON DB, Netlify Deployment
+Tech Stack: React, TypeScript, Tailwind CSS, Local JSON DB, Netlify Deployment
 
-MovieApp is a responsive, Letterboxd-inspired film discovery app where users can browse films, log watches, leave ratings, and interact socially through likes and watchlists. Designed with a clean aesthetic, fluid transitions, and accessibility in mind.
+MovieApp is a responsive, Letterboxd-inspired film discovery app where users can browse films, log watches, leave ratings, and interact socially through likes and watchlists — all through a clean, modern UI with smooth animation and strong accessibility.
 
 🚀 Technologies Used
 Frontend
 
-React (SPA structure)
+React (SPA)
 
 React Router
 
 TypeScript
 
-Tailwind CSS (+ custom CSS variables)
+Tailwind CSS + CSS variables
 
 Data & Assets
 
 Local JSON (films.json)
 
-Locally hosted, TMDB-style poster images
+Locally hosted poster images
 
-Lazy-loading image logic for performance
+Lazy image loading
 
 Deployment
 
-Netlify CI/CD (triggered on GitHub pushes)
+Netlify CI/CD
+
+GitHub repo integration
 
 🎨 My Specific Contributions
 🖌️ UI/UX & Styling
 
-Full responsive layout design across all pages
+Full responsive layout for all screens
 
-Tailwind CSS component styling
+Tailwind component styling
 
-Custom CSS variables (e.g., --primary-color: #40bcf4)
+Custom CSS variables
 
-Glassmorphism navbar, hover animations, and polished movie cards
+Glassmorphism navbar & card interactions
 
 🔍 Search & Filtering (Films.tsx)
-
-Real-time, case-insensitive filtering by:
-
-Title
-
-Director
-
-Genre
-
 const filteredFilms = filmsDB.FilmsDB.filter((film: Film) =>
   film.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
   film.director.toLowerCase().includes(searchQuery.toLowerCase()) ||
@@ -73,60 +61,80 @@ const filteredFilms = filmsDB.FilmsDB.filter((film: Film) =>
 
 ❤️ Interactive Components
 
-Toggleable like button (heart animation)
+Like button animations
 
-Hover overlays revealing metadata
+Hover overlays
 
-Lift-on-hover movie cards
-
-ARIA-friendly accessible buttons
+Accessible ARIA buttons
 
 🧭 Navbar Enhancements
 
-Sticky glassmorphism background (backdrop-filter: blur(20px))
+Sticky glass effect
 
-Active link highlighting in brand blue (#40bcf4)
+Active link highlighting (#40bcf4)
 
-Mobile hamburger menu with slide-in animation
+Mobile hamburger menu
 
 🏠 Home Page
 
-Hero section with user greeting
+Hero with greeting
 
-CTA buttons (Log a Film, Explore Now)
+CTA buttons
 
-Animated stats cards (films watched, friends online, avg rating)
+Stats cards
 
-Recent watches grid with star ratings
+Recent watches grid
 
 📱 Responsiveness & Accessibility
 
-Complete redesign of mobile breakpoints
+Redesigned mobile layouts
 
-High-contrast mode support
+High contrast support
 
-ARIA labels + keyboard navigation improvements
+Keyboard navigation
 
-⚡ Performance Improvements
+⚡ Performance
 
-Lazy image loading
+Lazy loading
 
-Placeholder fallbacks for posters
+Poster placeholders
 
-CSS-only animations (reduced JS overhead)
+CSS-only animations
 
 95+ Lighthouse score
 
 🖼️ Screenshots
 
-(Replace paths with your actual image locations)
+All images placed above their titles + in correct order.
 
+<img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/abdb1bea-6219-46b5-947a-0f15bbac2dd0" />
 Home Page Hero
-
+<img width="1915" height="956" alt="image" src="https://github.com/user-attachments/assets/bdf7631e-8285-490d-afd5-7fb167df5e91" />
 Films Grid with Search
-
-Navbar (Desktop & Mobile)
-
+<img width="1918" height="954" alt="image" src="https://github.com/user-attachments/assets/7925e4c6-c3bc-4fe5-b268-58cc46e48f3a" />
+Profile Screen
+<img width="1917" height="954" alt="image" src="https://github.com/user-attachments/assets/61e880b9-4fe2-4816-80e0-522297aea10c" />
+Friends Screen
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/41fd63e9-abe7-42a9-8acc-c61216428df4" />
+Achievements Screen
+<img width="1279" height="594" alt="image" src="https://github.com/user-attachments/assets/843cd9b1-d96a-4b39-ab4b-b421d30abcc5" />
+Recent Activity Screen
+<img width="1903" height="954" alt="image" src="https://github.com/user-attachments/assets/9beb741f-f424-4828-84b4-62c627c0c4e8" />
+Movie Filter Screen
+<img width="1902" height="952" alt="image" src="https://github.com/user-attachments/assets/648c750d-6a91-4359-8f22-9b809c479fe7" />
+Working Search Bar
+<img width="1311" height="918" alt="image" src="https://github.com/user-attachments/assets/595f8679-e498-4872-b843-549bc1379317" />
+Watchlist Screen
+<img width="1902" height="954" alt="image" src="https://github.com/user-attachments/assets/83e88c34-1bb3-4a5e-8840-e930bdc36a4e" />
+Film Details Screen
+<img width="930" height="594" alt="image" src="https://github.com/user-attachments/assets/b03e53b3-11f0-45eb-a55f-65f14589229a" />
+Film Info 
+<img width="950" height="875" alt="image" src="https://github.com/user-attachments/assets/6446fe70-ea45-47a4-915c-0b2906ccd0fc" />
+Film Info 2
+<img width="1035" height="563" alt="image" src="https://github.com/user-attachments/assets/eb336d7b-e218-4a01-8e8a-d3016e892983" />
+All Reviews Screen
+<img width="1901" height="921" alt="image" src="https://github.com/user-attachments/assets/0ed39b93-fe2b-4b9b-981d-72f0a7d24834" />
+Movie Cards With Interactive Elements
 🧩 Features
 🔎 Dynamic Film Discovery
 
@@ -134,60 +142,53 @@ Real-time search
 
 Multi-field filtering
 
-Responsive film grid (1–4 columns)
+Responsive grid
 
 ❤️ Social Interactions
 
-Like/unlike films
+Like/unlike
 
-Track watched movies
+Add to watchlist
 
-Add items to personal watchlists
+Track watched films
 
-📄 Film Details Pages
+📄 Film Details
 
-High-quality posters
+Poster
 
-Year / genre / director metadata
+Metadata
 
-User rating star component
+User rating system
 
 📱 Fully Responsive
 
-Mobile, tablet, and desktop optimized
+Mobile → tablet → desktop
 
-Touch-friendly buttons and card interactions
+Smooth animations
 
 🧠 My Journey & Takeaways
 
-This project was my first large-scale collaborative build, and it pushed me into:
+This project strengthened my skills in:
 
-Advanced React state handling
+React state management
 
-UI/UX thinking with accessibility in mind
+UI/UX and accessibility
 
 Tailwind mastery
 
-Debugging cross-origin image issues
+Performance optimization
 
-Managing Git merge conflicts
+SPA deployment
 
-Deploying an SPA with CI/CD
+Git collaboration
 
-I iterated through design challenges, fixed responsiveness issues, and optimized performance until the experience felt seamless. MovieApp is not just a class project — it's a polished portfolio piece demonstrating real-world development skills.
+MovieApp became a portfolio-quality app that reflects real-world development workflow.
 
 💻 Getting Started
-Clone repo
 git clone https://github.com/your-repo/MovieApp.git
 cd MovieApp
-
-Install dependencies
 npm install
-
-Run locally
 npm run dev
-
-Build for production
 npm run build
 
 🌐 Figma & Live Demo
@@ -195,15 +196,16 @@ npm run build
 👉 Figma:
 https://www.figma.com/design/tdhI5RmN7b78IBEdJK0DGz/Letterboxd-Redesign-Group-7?node-id=0-1&p=f
 
-👉 Live Site: <Netlify link>
+👉 Live Site:
+<Netlify link>
 
 🤝 Team 7 — Contributors
 Name	Role
-Cameron Bentley - Visual Design
-Maya Balkissoon - UX Researcher
-Haylee Hauser - Prototyping
-Cindi Flowers - Project Management
-Finn Isler - Information Architecture
-Nick Kanampiu - Front End Development
+Cameron Bentley	Visual Design
+Maya Balkissoon	UX Research
+Haylee Hauser	Prototyping
+Cindi Flowers	Project Management
+Finn Isler	Information Architecture
+Nick Kanampiu	Front-end Development
 
 ⭐ If you like this project, leave a star on GitHub!
