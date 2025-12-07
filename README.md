@@ -2,6 +2,9 @@
 
 A modern, cinematic web application for discovering films, tracking watches, writing reviews, and exploring curated movie data — designed and built by Group 7.
 
+<img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/abdb1bea-6219-46b5-947a-0f15bbac2dd0" />
+
+(Image of Home Page)
 
 Hero section with dynamic search bar, featured posters, and interactive like buttons.
 
