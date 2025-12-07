@@ -133,6 +133,11 @@ Film Details Screen
 All Reviews Screen
 <img width="1901" height="921" alt="image" src="https://github.com/user-attachments/assets/0ed39b93-fe2b-4b9b-981d-72f0a7d24834" />
 Movie Cards With Interactive Elements
+
+
+
+
+
 🧩 Features
 🔎 Dynamic Film Discovery
 
