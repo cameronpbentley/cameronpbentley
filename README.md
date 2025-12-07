@@ -128,9 +128,7 @@ Watchlist Screen
 <img width="1902" height="954" alt="image" src="https://github.com/user-attachments/assets/83e88c34-1bb3-4a5e-8840-e930bdc36a4e" />
 Film Details Screen
 <img width="930" height="594" alt="image" src="https://github.com/user-attachments/assets/b03e53b3-11f0-45eb-a55f-65f14589229a" />
-Film Info 
 <img width="950" height="875" alt="image" src="https://github.com/user-attachments/assets/6446fe70-ea45-47a4-915c-0b2906ccd0fc" />
-Film Info 2
 <img width="1035" height="563" alt="image" src="https://github.com/user-attachments/assets/eb336d7b-e218-4a01-8e8a-d3016e892983" />
 All Reviews Screen
 <img width="1901" height="921" alt="image" src="https://github.com/user-attachments/assets/0ed39b93-fe2b-4b9b-981d-72f0a7d24834" />
@@ -185,10 +183,25 @@ Git collaboration
 MovieApp became a portfolio-quality app that reflects real-world development workflow.
 
 💻 Getting Started
-git clone https://github.com/your-repo/MovieApp.git
-cd MovieApp
+
+Clone the repo:
+
+git clone https://github.com/Finn-Isler1/group7/tree/main
+cd group7
+
+
+Install dependencies:
+
 npm install
+
+
+Run locally:
+
 npm run dev
+
+
+Build for production:
+
 npm run build
 
 🌐 Figma & Live Demo
