@@ -215,7 +215,7 @@ npm run build
 https://www.figma.com/design/tdhI5RmN7b78IBEdJK0DGz/Letterboxd-Redesign-Group-7?node-id=0-1&p=f
 
 👉 Live Site:
-[<Netlify link>](https://finn-isler1.github.io/group7/#/)
+https://finn-isler1.github.io/group7/#/
 
 🤝 Team 7 — Contributors
 Name	Role
