@@ -1,4 +1,4 @@
-🎬 MovieApp — A Letterboxd-Inspired Film Discovery Platform
+🎬 **MovieApp** — A Letterboxd-Inspired Film Discovery Platform
 
 A modern, cinematic web application for discovering films, tracking watches, writing reviews, and exploring curated movie data — designed and built by Group 7.
 
