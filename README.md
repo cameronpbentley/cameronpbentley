@@ -16,8 +16,8 @@ Tech Stack: React, TypeScript, Tailwind CSS, Local JSON DB, Netlify Deployment
 
 MovieApp is a responsive, Letterboxd-inspired film discovery app where users can browse films, log watches, leave ratings, and interact socially through likes and watchlists — all through a clean, modern UI with smooth animation and strong accessibility.
 
-🚀 Technologies Used
-Frontend
+🚀 **Technologies Used
+Frontend**
 
 React (SPA)
 
@@ -59,7 +59,7 @@ const filteredFilms = filmsDB.FilmsDB.filter((film: Film) =>
   film.genre.toLowerCase().includes(searchQuery.toLowerCase())
 );
 
-❤️ Interactive Components
+❤️ **Interactive Components**
 
 Like button animations
 
@@ -67,7 +67,7 @@ Hover overlays
 
 Accessible ARIA buttons
 
-🧭 Navbar Enhancements
+🧭 **Navbar Enhancements**
 
 Sticky glass effect
 
@@ -75,8 +75,8 @@ Active link highlighting (#40bcf4)
 
 Mobile hamburger menu
 
-🏠 Home Page
-
+🏠 **Home Page
+**
 Hero with greeting
 
 CTA buttons
@@ -85,7 +85,7 @@ Stats cards
 
 Recent watches grid
 
-📱 Responsiveness & Accessibility
+📱 **Responsiveness & Accessibility**
 
 Redesigned mobile layouts
 
@@ -93,7 +93,7 @@ High contrast support
 
 Keyboard navigation
 
-⚡ Performance
+⚡ **Performance**
 
 Lazy loading
 
@@ -103,7 +103,7 @@ CSS-only animations
 
 95+ Lighthouse score
 
-🖼️ Screenshots
+🖼️ **Screenshots**
 
 All images placed above their titles + in correct order.
 
@@ -138,8 +138,8 @@ Movie Cards With Interactive Elements
 
 
 
-🧩 Features
-🔎 Dynamic Film Discovery
+🧩 **Features
+🔎 Dynamic Film Discovery**
 
 Real-time search
 
@@ -147,7 +147,7 @@ Multi-field filtering
 
 Responsive grid
 
-❤️ Social Interactions
+❤️ **Social Interactions**
 
 Like/unlike
 
@@ -155,7 +155,7 @@ Add to watchlist
 
 Track watched films
 
-📄 Film Details
+📄 **Film Details**
 
 Poster
 
@@ -163,13 +163,13 @@ Metadata
 
 User rating system
 
-📱 Fully Responsive
+📱 **Fully Responsive**
 
 Mobile → tablet → desktop
 
 Smooth animations
 
-🧠 My Journey & Takeaways
+🧠** My Journey & Takeaways**
 
 This project strengthened my skills in:
 
@@ -187,7 +187,7 @@ Git collaboration
 
 MovieApp became a portfolio-quality app that reflects real-world development workflow.
 
-💻 Getting Started
+💻 **Getting Started**
 
 Clone the repo:
 
@@ -209,7 +209,7 @@ Build for production:
 
 npm run build
 
-🌐 Figma & Live Demo
+🌐** Figma & Live Demo**
 
 👉 Figma:
 https://www.figma.com/design/tdhI5RmN7b78IBEdJK0DGz/Letterboxd-Redesign-Group-7?node-id=0-1&p=f
@@ -217,7 +217,9 @@ https://www.figma.com/design/tdhI5RmN7b78IBEdJK0DGz/Letterboxd-Redesign-Group-7?
 👉 Live Site:
 https://finn-isler1.github.io/group7/#/
 
-🤝 Team 7 — Contributors
+🤝 **Team 7 — Contributors**
+
+
 Name	Role
 Cameron Bentley	Visual Design
 Maya Balkissoon	UX Research
@@ -226,4 +228,4 @@ Cindi Flowers	Project Management
 Finn Isler	Information Architecture
 Nick Kanampiu	Front-end Development
 
-⭐ If you like this project, leave a star on GitHub!
+⭐ _If you like this project, leave a star on GitHub!_
